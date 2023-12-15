@@ -4,6 +4,10 @@ work in progress
 
 ## DCAT profiles
 
+- [DCAT 1](https://www.w3.org/TR/vocab-dcat-1/) - Data Catalog Vocabulary - W3C Recommendation 16 January 2014
+- [DCAT 2](https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/) - Data Catalog Vocabulary - Version 2 - W3C Recommendation 04 February 2020
+- [DCAT 3](https://www.w3.org/TR/vocab-dcat-3/) - Data Catalog Vocabulary - Version 3 - W3C Working Draft 07 March 2023
+
 ## European DCAT-AP profiles
 
 - [DCAT-AP 2.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/201-0) - version 2.0.1
@@ -21,4 +25,3 @@ work in progress
 - [GeoDCAT-AP 1.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/geodcat-application-profile-data-portals-europe/release/101) - A geospatial extension for the DCAT application profile for data portals in Europe - 2 August 2016 - based on  ISO 19115 and ISO 19119
 - [GeoDCAT-AP 2.0.0](https://semiceu.github.io/GeoDCAT-AP/releases/) - A geospatial extension for the DCAT application profile for data portals in Europe - 23 December 2020 - based on  ISO 19115 and ISO 19119
 - [DCAT-AP-HVD](https://semiceu.github.io/uri.semic.eu-generated/DCAT-AP/releases/2.2.0-hvd/) - DCAT-AP High Value Datasets - 14 December 2023 - based on DCAT-AP 2
-- 
