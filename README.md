@@ -1,4 +1,4 @@
-# Awesome List DCAT
+# Awesome List DCAT-AP
 
 work in progress
 
