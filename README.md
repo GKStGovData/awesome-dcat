@@ -21,6 +21,7 @@ The DCAT application profile for data portals in Europe
 ## National DCAT-AP profiles
 
 - [DCAT-BE](http://dcat.be/) - Belgian profile of DCAT-AP
+- [DCAT-AP CH](https://www.ech.ch/de/ech/ech-0200/2.0.0) - DCAT Application Profile for Data Portals in Switzerland - version 2.0.0 - 2023-04-03 - based on DCAT-AP 2.1.0
 - [DCAT-AP-CZ](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/2021-01-11/) - Czech Republic - version from January 11, 2021 - based on DCAT-AP 2.0.1
 - [DCAT-AP.de](https://www.dcat-ap.de/def/dcatde/2.0/spec/) - German profile of DCAT-AP - version 2.0 - 2022-02-28
 - [DCAT-AP_IT](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html) - Italian profile of DCAT-AP
@@ -33,3 +34,4 @@ The DCAT application profile for data portals in Europe
 - [GeoDCAT-AP 2.0.0](https://semiceu.github.io/GeoDCAT-AP/releases/) - A geospatial extension for the DCAT application profile for data portals in Europe - 23 December 2020 - based on  ISO 19115 and ISO 19119
 - [DCAT-AP-HVD](https://semiceu.github.io/uri.semic.eu-generated/DCAT-AP/releases/2.2.0-hvd/) - DCAT-AP High Value Datasets - 14 December 2023 - based on DCAT-AP 2
 - [StatDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/statdcat-application-profile-data-portals-europe) - Statistical profile of DCAT-AP
+- [DCAT-AP-JRC](https://ec-jrc.github.io/dcat-ap-jrc/) - An extension to DCAT-AP for multidisciplinary research data - Unofficial Draft - 03 July 2019 - bases on DCAT-AP 1.2.1, GeoDCAT-AP 1.0.1, StatDCAT-AP 1.0.1
