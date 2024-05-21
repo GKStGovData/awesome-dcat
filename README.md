@@ -20,8 +20,9 @@ The DCAT application profile for data portals in Europe
 
 ## National DCAT-AP profiles
 
+- [DCAT-AP AT](https://www.dcat-ap.at/) - Austrian profile of DCAT-AP
 - [DCAT-BE](http://dcat.be/) - Belgian profile of DCAT-AP
-- [DCAT-AP CH](https://www.ech.ch/de/ech/ech-0200/2.0.0) - DCAT Application Profile for Data Portals in Switzerland - version 2.0.0 - 2023-04-03 - based on DCAT-AP 2.1.0
+- [DCAT-AP CH](https://dcat-ap.ch/) - DCAT Application Profile for Data Portals in Switzerland - version 2.0.0 - 2023-04-03 - based on DCAT-AP 2.1.0
 - [DCAT-AP-CZ](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/2021-01-11/) - Czech Republic - version from January 11, 2021 - based on DCAT-AP 2.0.1
 - [DCAT-AP.de](https://www.dcat-ap.de/def/dcatde/2.0/spec/) - German profile of DCAT-AP - version 2.0 - 2022-02-28
 - [DCAT-AP_IT](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html) - Italian profile of DCAT-AP
