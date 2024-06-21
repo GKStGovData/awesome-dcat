@@ -27,6 +27,7 @@ The DCAT application profile for data portals in Europe
 - [DCAT-AP.de](https://www.dcat-ap.de/def/dcatde/2.0/spec/) - German profile of DCAT-AP - version 2.0 - 2022-02-28
 - [DCAT-AP-DK](https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/) - Danish profile of DCAT-AP - version 2.0.2 - version from 2021-02-16 - based on DCAT-AP 2.0.1
 - [DCAT-AP_IT](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html) - Italian profile of DCAT-AP
+- [DCAT-AP-DONL](https://dcat-ap-donl.readthedocs.io/en/latest/summary.html) - Dutch profile of DCAT-AP - version 1.1 - version from 2019-07-03 - based on DCAT-AP-NL 1.1
 - [DCAT-AP-NO](https://data.norge.no/specification/dcat-ap-no) - Norwegian profile of DCAT-AP - version 2.2 - 2022-05-25
 - [DCAT-AP-SE](https://docs.dataportal.se/dcat/sv/) - Swedish profile of DCAT-AP - version 2.0.0 - 19 May 2020
 - [DCAT-US](https://resources.data.gov/resources/dcat-us/) - DCAT-US Schema (Project Open Data Metadata Schema) - version 1.1 - version from November 6th 2014
