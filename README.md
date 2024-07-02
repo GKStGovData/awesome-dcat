@@ -45,3 +45,9 @@ The DCAT application profile for data portals in Europe
 ## DCAT-AP modification tracking
 
 - [DCAT-AP Feed](https://semiceu.github.io/LDES-DCAT-AP-feeds/) - The DCAT-AP Feed specification
+
+## Conversion tools
+
+- [iso-19139-to-dcat-ap](https://github.com/SEMICeu/iso-19139-to-dcat-ap/tree/master) Convert ISO metadata to DCAT-AP
+- [inspire-dcat-de-bridge](https://github.com/OpenNRW/inspire-dcat-de-bridge) Facades for Germany (e.g. open.nrw, GovData): Provide CKAN data to the catalog service of the Geoportal and vice versa.
+- [CSW2DCAT](https://code.schleswig-holstein.de/opendata/csw2dcat) Convert between the results of a Web Catalogue Service (CSW) and DCAT-AP.de
