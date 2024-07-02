@@ -41,6 +41,7 @@ The DCAT application profile for data portals in Europe
 - [DCAT-AP-JRC](https://ec-jrc.github.io/dcat-ap-jrc/) - An extension to DCAT-AP for multidisciplinary research data - Unofficial Draft - 03 July 2019 - bases on DCAT-AP 1.2.1, GeoDCAT-AP 1.0.1, StatDCAT-AP 1.0.1
 - [MLDCAT-AP](https://semiceu.github.io/MLDCAT-AP/releases/2.0.0/) - MLDCAT-AP (Machine Learning DCAT-AP) is an application profile that extends DCAT-AP in the field of machine learning.
 - [HealthDCAT-AP](https://ehds2pilot.eu/upcoming_results/extension-of-dcat-ap-healthdcat-ap/) - Expected in early 2024
+- [BRegDCAT-AP](https://joinup.ec.europa.eu/collection/access-base-registries/solution/bregdcat-ap/release/210) - DCAT-AP for Base Register - BRegDCAT-AP 2.1.0 - 20/06/2024
 
 ## DCAT-AP modification tracking
 
