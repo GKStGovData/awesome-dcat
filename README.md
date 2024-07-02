@@ -15,8 +15,7 @@ The DCAT application profile for data portals in Europe
 - [DCAT-AP 1.2](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/12) - version 1.2
 - [DCAT-AP 2.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/201-0) - version 2.0.1
 - [DCAT-AP 2.1.1](https://github.com/SEMICeu/DCAT-AP/tree/master/releases/2.1.1) - version 2.1.1
-- [DCAT-AP 3.0.0](https://joinup.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe/release/300) - version 3.0.0
-- [DCAT-AP 3.0](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) - ReSpec from 17 July 2023
+- [DCAT-AP 3.0](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) - version 3.0
 
 ## National DCAT-AP profiles
 
