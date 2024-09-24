@@ -1,12 +1,14 @@
 # Awesome List DCAT-AP
 
-work in progress
+This awesome list collects all links to DCAT-AP profiles and suitable tools. If you have an addition, open an issue or pull request. Thanks.
 
 ## DCAT profiles
 
-- [DCAT 1](https://www.w3.org/TR/vocab-dcat-1/) - Data Catalog Vocabulary - W3C Recommendation 16 January 2014
-- [DCAT 2](https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/) - Data Catalog Vocabulary - Version 2 - W3C Recommendation 04 February 2020
-- [DCAT 3](https://www.w3.org/TR/vocab-dcat-3/) - Data Catalog Vocabulary - Version 3 - W3C Working Draft 07 March 2023
+Profile                                       | Description             | Version                        | Date
+----------------------------------------------|-------------------------|--------------------------------|----------------
+[DCAT 1](https://www.w3.org/TR/vocab-dcat-1/) | Data Catalog Vocabulary | Version 1 - W3C Recommendation | 16 January 2014
+[DCAT 2](https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/) | Data Catalog Vocabulary | Version 2 - W3C Recommendation | 04 February 2020
+[DCAT 3](https://www.w3.org/TR/vocab-dcat-3/) | Data Catalog Vocabulary | Version 3 - W3C Recommendation | 22 August 2024
 
 ## European DCAT-AP profiles
 
@@ -40,8 +42,8 @@ The DCAT application profile for data portals in Europe
 - [GeoDCAT-AP 2.0.0](https://semiceu.github.io/GeoDCAT-AP/releases/) - A geospatial extension for the DCAT application profile for data portals in Europe - 23 December 2020 - based on  ISO 19115 and ISO 19119
 - [HealthDCAT-AP](https://ehds2pilot.eu/upcoming_results/extension-of-dcat-ap-healthdcat-ap/) - Expected in early 2024
 - [MLDCAT-AP](https://semiceu.github.io/MLDCAT-AP/releases/2.0.0/) - MLDCAT-AP (Machine Learning DCAT-AP) is an application profile that extends DCAT-AP in the field of machine learning.
-- [StatDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/statdcat-application-profile-data-portals-europe) - Statistical profile of DCAT-AP
 - [mobilityDCAT-AP](https://mobilitydcat-ap.github.io/mobilityDCAT-AP/releases/index.html) - An extension to DCAT-AP for mobility data - 04 April 2024 - based on DCAT-AP 2
+- [StatDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/statdcat-application-profile-data-portals-europe) - Statistical profile of DCAT-AP
 
 ## DCAT-AP modification tracking
 
