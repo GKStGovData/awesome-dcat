@@ -19,7 +19,7 @@ Profile                                       | Description             | Versio
 [DCAT-AP 2.1.1](https://github.com/SEMICeu/DCAT-AP/tree/master/releases/2.1.1) | DCAT application profile | Version 2.1.1 | 31 August 2022
 [DCAT-AP 3.0](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) | DCAT application profile | Version 3.0 | 14 June 2024
 
-For some nation states there are sub-profiles of DCAT-AP
+For some nation states there are sub-profiles of DCAT-AP:
 
 Profile                                       | Description             | Version                        | Based on      | Date
 ----------------------------------------------|-------------------------|--------------------------------|---------------|----------------
@@ -29,8 +29,8 @@ Profile                                       | Description             | Versio
 [DCAT-AP-CZ](https://ofn.gov.cz/rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/2021-01-11/) | Czech Republic |     | DCAT-AP 2.0.1 | 11 January 2021
 [DCAT-AP.de](https://www.dcat-ap.de/def/dcatde/2.0/spec/) | German profile of DCAT-AP | Version 2.0      |               | 28 February 2022
 [DCAT-AP-DK](https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/) | Danish profile of DCAT-AP | Version 2.0.2 | DCAT-AP 2.0.1 | 16 February 2021
-[DCAT-AP_IT](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html) | Italian profile of DCAT-AP
 [DCAT-AP-DONL](https://dcat-ap-donl.readthedocs.io/en/latest/summary.html) | Dutch profile of DCAT-AP | Version 1.1 | DCAT-AP-NL 1.1 | 03 July 2019
+[DCAT-AP_IT](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html) | Italian profile of DCAT-AP
 [DCAT-AP-NO](https://data.norge.no/specification/dcat-ap-no) | Norwegian profile of DCAT-AP | Version 2.2 |              | 25 May 2022
 [DCAT-AP-SE](https://docs.dataportal.se/dcat/sv/) | Swedish profile of DCAT-AP | Version 2.0.0           |               | 19 May 2020
 [DCAT-US](https://resources.data.gov/resources/dcat-us/) | DCAT-US Schema (Project Open Data Metadata Schema) | Version 1.1 | | 06 November 2014
