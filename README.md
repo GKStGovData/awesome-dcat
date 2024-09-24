@@ -2,7 +2,7 @@
 
 This awesome list collects all links to DCAT-AP profiles and suitable tools. If you have an addition, open an issue or pull request. Thanks.
 
-## DCAT profiles
+The basis is the DCAT profiles from the W3C:
 
 Profile                                       | Description             | Version                        | Date
 ----------------------------------------------|-------------------------|--------------------------------|----------------
@@ -10,14 +10,14 @@ Profile                                       | Description             | Versio
 [DCAT 2](https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/) | Data Catalog Vocabulary | Version 2 - W3C Recommendation | 04 February 2020
 [DCAT 3](https://www.w3.org/TR/vocab-dcat-3/) | Data Catalog Vocabulary | Version 3 - W3C Recommendation | 22 August 2024
 
-## European DCAT-AP profiles
+Based on this, the DCAT application profile for data portals in Europe was created:
 
-The DCAT application profile for data portals in Europe
-
-- [DCAT-AP 1.2](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/12) - version 1.2
-- [DCAT-AP 2.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/201-0) - version 2.0.1
-- [DCAT-AP 2.1.1](https://github.com/SEMICeu/DCAT-AP/tree/master/releases/2.1.1) - version 2.1.1
-- [DCAT-AP 3.0](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) - version 3.0
+Profile                                       | Description             | Version                        | Date
+----------------------------------------------|-------------------------|--------------------------------|----------------
+[DCAT-AP 1.2](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/12) | DCAT application profile | Version 1.2
+[DCAT-AP 2.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/201-0) | DCAT application profile | Version 2.0.1
+[DCAT-AP 2.1.1](https://github.com/SEMICeu/DCAT-AP/tree/master/releases/2.1.1) | DCAT application profile | Version 2.1.1 | 31 August 2022
+[DCAT-AP 3.0](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) | DCAT application profile | Version 3.0 | 14 June 2024
 
 ## National DCAT-AP profiles
 
