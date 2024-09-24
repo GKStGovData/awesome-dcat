@@ -35,17 +35,19 @@ Profile                                       | Description             | Versio
 [DCAT-AP-SE](https://docs.dataportal.se/dcat/sv/) | Swedish profile of DCAT-AP | Version 2.0.0           |               | 19 May 2020
 [DCAT-US](https://resources.data.gov/resources/dcat-us/) | DCAT-US Schema (Project Open Data Metadata Schema) | Version 1.1 | | 06 November 2014
 
-## Other DCAT-AP profiles
+Further thematic subprofiles were derived from DCAT-AP:
 
-- [BRegDCAT-AP](https://joinup.ec.europa.eu/collection/access-base-registries/solution/bregdcat-ap/release/210) - DCAT-AP for Base Register - BRegDCAT-AP 2.1.0 - 20/06/2024
-- [DCAT-AP-HVD](https://semiceu.github.io/uri.semic.eu-generated/DCAT-AP/releases/2.2.0-hvd/) - DCAT-AP High Value Datasets - 14 December 2023 - based on DCAT-AP 2
-- [DCAT-AP-JRC](https://ec-jrc.github.io/dcat-ap-jrc/) - An extension to DCAT-AP for multidisciplinary research data - Unofficial Draft - 03 July 2019 - bases on DCAT-AP 1.2.1, GeoDCAT-AP 1.0.1, StatDCAT-AP 1.0.1
-- [GeoDCAT-AP 1.0.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/geodcat-application-profile-data-portals-europe/release/101) - A geospatial extension for the DCAT application profile for data portals in Europe - 2 August 2016 - based on  ISO 19115 and ISO 19119
-- [GeoDCAT-AP 2.0.0](https://semiceu.github.io/GeoDCAT-AP/releases/) - A geospatial extension for the DCAT application profile for data portals in Europe - 23 December 2020 - based on  ISO 19115 and ISO 19119
-- [HealthDCAT-AP](https://ehds2pilot.eu/upcoming_results/extension-of-dcat-ap-healthdcat-ap/) - Expected in early 2024
-- [MLDCAT-AP](https://semiceu.github.io/MLDCAT-AP/releases/2.0.0/) - MLDCAT-AP (Machine Learning DCAT-AP) is an application profile that extends DCAT-AP in the field of machine learning.
-- [mobilityDCAT-AP](https://mobilitydcat-ap.github.io/mobilityDCAT-AP/releases/index.html) - An extension to DCAT-AP for mobility data - 04 April 2024 - based on DCAT-AP 2
-- [StatDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/statdcat-application-profile-data-portals-europe) - Statistical profile of DCAT-AP
+Profile                                       | Description             | Version                        | Based on      | Date
+----------------------------------------------|-------------------------|--------------------------------|---------------|----------------
+[BRegDCAT-AP](https://joinup.ec.europa.eu/collection/access-base-registries/solution/bregdcat-ap/release/210) | DCAT-AP for Base Register | Version 2.1.0 | | 20 June 2024
+[DCAT-AP-HVD](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) | DCAT-AP High Value Datasets | Version 3.0 | DCAT 3.0.0 | 14 June 2024
+[DCAT-AP-JRC](https://ec-jrc.github.io/dcat-ap-jrc/) | An extension to DCAT-AP for multidisciplinary research data | Unofficial Draft | DCAT-AP 1.2.1, GeoDCAT-AP 1.0.1, StatDCAT-AP 1.0.1 | 03 July 2019
+[GeoDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/geodcat-application-profile-data-portals-europe/release/101) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 1.0.1 | ISO 19115 and ISO 19119 | 2 August 2016
+[GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 2.0.0 | ISO 19115 and ISO 19119 | 23 December 2020
+[HealthDCAT-AP](https://ehds2pilot.eu/upcoming_results/extension-of-dcat-ap-healthdcat-ap/) | | | | Expected in 2024
+[MLDCAT-AP](https://semiceu.github.io/MLDCAT-AP/releases/2.0.0/) | Machine Learning DCAT-AP is an application profile that extends DCAT-AP in the field of machine learning
+[mobilityDCAT-AP](https://mobilitydcat-ap.github.io/mobilityDCAT-AP/releases/index.html) | An extension to DCAT-AP for mobility data | | DCAT-AP 2 | 04 April 2024
+[StatDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/statdcat-application-profile-data-portals-europe) | Statistical profile of DCAT-AP
 
 ## DCAT-AP modification tracking
 
