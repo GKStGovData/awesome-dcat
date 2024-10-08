@@ -43,7 +43,8 @@ Profile                                       | Description             | Versio
 [DCAT-AP-HVD](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) | DCAT-AP High Value Datasets | Version 3.0 | DCAT 3.0.0 | 14 June 2024
 [DCAT-AP-JRC](https://ec-jrc.github.io/dcat-ap-jrc/) | An extension to DCAT-AP for multidisciplinary research data | Unofficial Draft | DCAT-AP 1.2.1, GeoDCAT-AP 1.0.1, StatDCAT-AP 1.0.1 | 03 July 2019
 [GeoDCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/geodcat-application-profile-data-portals-europe/release/101) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 1.0.1 | ISO 19115 and ISO 19119 | 2 August 2016
-[GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 2.0.0 | ISO 19115 and ISO 19119 | 23 December 2020
+[GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/2.0.0/) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 2.0.0 | ISO 19115 and ISO 19119 | 23 December 2020
+[GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/3.0.0/) | A geospatial extension for the DCAT application profile for data portals in Europe | Version 3.0.0 | ISO 19115 and ISO 19139 | 04 October 2024
 [HealthDCAT-AP](https://ehds2pilot.eu/upcoming_results/extension-of-dcat-ap-healthdcat-ap/) | | | | Expected in 2024
 [MLDCAT-AP](https://semiceu.github.io/MLDCAT-AP/releases/2.0.0/) | Machine Learning DCAT-AP is an application profile that extends DCAT-AP in the field of machine learning
 [mobilityDCAT-AP](https://mobilitydcat-ap.github.io/mobilityDCAT-AP/releases/index.html) | An extension to DCAT-AP for mobility data | | DCAT-AP 2 | 04 April 2024
